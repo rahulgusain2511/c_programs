@@ -1,0 +1,2 @@
+numbers of letter are 13
+number of words 2
